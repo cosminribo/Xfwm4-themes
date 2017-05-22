@@ -1,6 +1,7 @@
 #Vista Royale tweaked
 button_offset=2
 button_spacing=1
+show_app_icon=true
 full_width_title=true
 title_horizontal_offset=3
 title_vertical_offset_active=0
