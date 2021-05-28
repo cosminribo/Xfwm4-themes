@@ -20,3 +20,6 @@ https://www.pling.com/p/1134969/
 
 Changed the height from 28 to 20 pixels and adjusted the icon buttons and the decoration of the title bar.
 
+![Active window decoration](https://github.com/cocofifi/Xfwm4_Royale/blob/master/retro_active.png)
+
+![Inactive window decoration](https://github.com/cocofifi/Xfwm4-themes/blob/master/retro_inactive.png)
