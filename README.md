@@ -11,3 +11,12 @@ The files should be copied to a /home/username/.themes/ directory. The name of t
 ![Small screenshot](https://github.com/cocofifi/Xfwm4_Royale/blob/master/screenshot_vistaroyale.png)
 
 ![Screencast](https://github.com/cocofifi/Xfwm4-themes/blob/master/themescreencast.gif?raw=true)
+
+# Simply Retro Blue compact
+
+Modification of a Simple Retro theme:
+
+https://www.pling.com/p/1134969/
+
+Changed the height from 28 to 20 pixels and adjusted the icon buttons and the decoratio of the title bar.
+
