@@ -18,5 +18,5 @@ Modification of a Simple Retro theme:
 
 https://www.pling.com/p/1134969/
 
-Changed the height from 28 to 20 pixels and adjusted the icon buttons and the decoratio of the title bar.
+Changed the height from 28 to 20 pixels and adjusted the icon buttons and the decoration of the title bar.
 
